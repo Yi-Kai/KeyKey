@@ -1,0 +1,12 @@
+"Error: unable to download updates." = "错误：无法下载更新";
+"Error: the downloaded file is corrupt." = "错误：下载文档已损毁";
+"Error: unable to open the downloaded file. Please try again." = "错误：无法打开下载的更新文档，请重试。";
+"Error: %@ %@" = "错误： %@ %@";
+"Download completes. Do you want to install it now?" = "下载已完成。您想要现在就安装更新吗？";
+"Downloading...%d %%" = "下载中…%d %%";
+"Downloading... %ju KB" = "下载中... %ju KB";
+"A newer version is available." = "网路上已经有新版软件可供下载";
+"Do you want to download it right now?" = "请问您现在就要下载吗？";
+"Yes" = "是";
+"No" = "否";
+"Please download the newest version." = "建议您下载安装最新版本的 Yahoo! 奇摩输入法。";

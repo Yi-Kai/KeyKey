@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "下载更新";
+CFBundleDisplayName = "Yahoo! 奇摩輸入法下载更新程式";
+NSHumanReadableCopyright = "雅虎国际资讯 版权所有 © 2008-2010, Yahoo! Taiwan All Rights Reserved.";

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>OpenVanilla</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.openvanilla.inputmethod.openvanilla</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>OPVN</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>InputMethodConnectionName</key>
+	<string>OpenVanilla_1_Connection</string>
+	<key>InputMethodServerControllerClass</key>
+	<string>OpenVanillaController</string>
+	<key>InputMethodServerDelegateClass</key>
+	<string>OpenVanillaController</string>
+	<key>LSBackgroundOnly</key>
+	<string>0</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>TISInputSourceID</key>
+	<string>org.openvanilla.inputmethod.openvanilla</string>
+	<key>tsInputMethodIconFileKey</key>
+	<string>Renaissance.icns</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5.0</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>i386</key>
+		<string>10.5.0</string>
+		<key>ppc</key>
+		<string>10.5.0</string>
+		<key>ppc64</key>
+		<string>10.6.0</string>
+		<key>x86_64</key>
+		<string>10.6.0</string>
+	</dict>	
+</dict>
+</plist>

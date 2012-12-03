@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CannedMessages</key>
+	<array>		
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Commmon</string>
+				   <key>zh_TW</key>
+				<string>常用符號</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>┌</string>
+				<string>┬</string>
+				<string>┐</string>
+				<string>、</string>
+				<string>〝</string>
+				<string>〞</string>
+				<string>『</string>
+				<string>』</string>
+				<string>「</string>
+				<string>」</string>
+				<string>├</string>
+				<string>┼</string>
+				<string>┤</string>
+				<string>※</string>
+				<string>〈</string>
+				<string>〉</string>
+				<string>《</string>
+				<string>》</string>
+				<string>【</string>
+				<string>】</string>
+				<string>└</string>
+				<string>┴</string>
+				<string>┘</string>
+				<string>○</string>
+				<string>●</string>
+				<string>↑</string>
+				<string>↓</string>
+				<string>！</string>
+				<string>：</string>
+				<string>；</string>
+				<string>─</string>
+				<string>│</string>
+				<string>◎</string>
+				<string>§</string>
+				<string>←</string>
+				<string>→</string>
+				<string>。</string>
+				<string>，</string>
+				<string>‧</string>
+				<string>？</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Basic</string>
+				   <key>zh_TW</key>
+				<string>基本符號</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>，</string>
+				<string>、</string>
+				<string>。</string>
+				<string>．</string>
+				<string>？</string>
+				<string>！</string>
+				<string>～</string>
+				<string>＄</string>
+				<string>％</string>
+				<string>＠</string>
+				<string>＆</string>
+				<string>＃</string>
+				<string>＊</string>
+				<string>；</string>
+				<string>︰</string>
+				<string>…</string>
+				<string>‥</string>
+				<string>﹐</string>
+				<string>﹒</string>
+				<string>˙</string>
+				<string>·</string>
+				<string>﹔</string>
+				<string>﹕</string>
+				<string>‘</string>
+				<string>’</string>
+				<string>“</string>
+				<string>”</string>
+				<string>〝</string>
+				<string>〞</string>
+				<string>‵</string>
+				<string>′</string>
+				<string>〃</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Single Border</string>
+				   <key>zh_TW</key>
+				<string>單線框</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>├</string>
+				<string>─</string>
+				<string>┼</string>
+				<string>┴</string>
+				<string>┬</string>
+				<string>┤</string>
+				<string>┌</string>
+				<string>┐</string>
+				<string>╞</string>
+				<string>═</string>
+				<string>╪</string>
+				<string>╡</string>
+				<string>│</string>
+				<string>▕</string>
+				<string>└</string>
+				<string>┘</string>
+				<string>╭</string>
+				<string>╮</string>
+				<string>╰</string>
+				<string>╯</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Double Border</string>
+				   <key>zh_TW</key>
+				<string>雙線框</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>╔</string>
+				<string>╦</string>
+				<string>╗</string>
+				<string>╠</string>
+				<string>═</string>
+				<string>╬</string>
+				<string>╣</string>
+				<string>╓</string>
+				<string>╥</string>
+				<string>╖</string>
+				<string>╒</string>
+				<string>╤</string>
+				<string>╕</string>
+				<string>║</string>
+				<string>╚</string>
+				<string>╩</string>
+				<string>╝</string>
+				<string>╟</string>
+				<string>╫</string>
+				<string>╢</string>
+				<string>╙</string>
+				<string>╨</string>
+				<string>╜</string>
+				<string>╞</string>
+				<string>╪</string>
+				<string>╡</string>
+				<string>╘</string>
+				<string>╧</string>
+				<string>╛</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Blocks</string>
+				   <key>zh_TW</key>
+				<string>填色色塊</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>＿</string>
+				<string>ˍ</string>
+				<string>▁</string>
+				<string>▂</string>
+				<string>▃</string>
+				<string>▄</string>
+				<string>▅</string>
+				<string>▆</string>
+				<string>▇</string>
+				<string>█</string>
+				<string>▏</string>
+				<string>▎</string>
+				<string>▍</string>
+				<string>▌</string>
+				<string>▋</string>
+				<string>▊</string>
+				<string>▉</string>
+				<string>◢</string>
+				<string>◣</string>
+				<string>◥</string>
+				<string>◤</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Lines</string>
+				   <key>zh_TW</key>
+				<string>線段</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>﹣</string>
+				<string>﹦</string>
+				<string>≡</string>
+				<string>｜</string>
+				<string>∣</string>
+				<string>∥</string>
+				<string>–</string>
+				<string>︱</string>
+				<string>—</string>
+				<string>╴</string>
+				<string>¯</string>
+				<string>￣</string>
+				<string>﹉</string>
+				<string>﹊</string>
+				<string>﹍</string>
+				<string>﹎</string>
+				<string>﹋</string>
+				<string>﹌</string>
+				<string>﹏</string>
+				<string>︴</string>
+				<string>∕</string>
+				<string>﹨</string>
+				<string>╱</string>
+				<string>╲</string>
+				<string>／</string>
+				<string>＼</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Special Symbols</string>
+				   <key>zh_TW</key>
+				<string>特殊符號</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>↑</string>
+				<string>↓</string>
+				<string>←</string>
+				<string>→</string>
+				<string>↖</string>
+				<string>↗</string>
+				<string>↙</string>
+				<string>↘</string>
+				<string>㊣</string>
+				<string>◎</string>
+				<string>○</string>
+				<string>●</string>
+				<string>⊕</string>
+				<string>⊙</string>
+				<string>○</string>
+				<string>●</string>
+				<string>△</string>
+				<string>▲</string>
+				<string>☆</string>
+				<string>★</string>
+				<string>◇</string>
+				<string>◆</string>
+				<string>□</string>
+				<string>■</string>
+				<string>▽</string>
+				<string>▼</string>
+				<string>§</string>
+				<string>￥</string>
+				<string>〒</string>
+				<string>￠</string>
+				<string>￡</string>
+				<string>※</string>
+				<string>♀</string>
+				<string>♂</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Brackets</string>
+				   <key>zh_TW</key>
+				<string>水平括弧</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>〔</string>
+				<string>〕</string>
+				<string>【</string>
+				<string>】</string>
+				<string>《</string>
+				<string>》</string>
+				<string>（</string>
+				<string>）</string>
+				<string>｛</string>
+				<string>｝</string>
+				<string>﹙</string>
+				<string>﹚</string>
+				<string>『</string>
+				<string>』</string>
+				<string>﹛</string>
+				<string>﹜</string>
+				<string>﹝</string>
+				<string>﹞</string>
+				<string>＜</string>
+				<string>＞</string>
+				<string>≦</string>
+				<string>≧</string>
+				<string>﹤</string>
+				<string>﹥</string>
+				<string>「</string>
+				<string>」</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Vertical Brackets</string>
+				   <key>zh_TW</key>
+				<string>垂直括弧</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>︵</string>
+				<string>︶</string>
+				<string>︷</string>
+				<string>︸</string>
+				<string>︹</string>
+				<string>︺</string>
+				<string>︻</string>
+				<string>︼</string>
+				<string>︽</string>
+				<string>︾</string>
+				<string>〈</string>
+				<string>〉</string>
+				<string>︿</string>
+				<string>﹀</string>
+				<string>∩</string>
+				<string>∪</string>
+				<string>﹁</string>
+				<string>﹂</string>
+				<string>﹃</string>
+				<string>﹄</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Hiragana</string>
+				   <key>zh_TW</key>
+				<string>平假名</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>あ</string>
+				<string>い</string>
+				<string>う</string>
+				<string>え</string>
+				<string>お</string>
+				<string>か</string>
+				<string>き</string>
+				<string>く</string>
+				<string>け</string>
+				<string>こ</string>
+				<string>さ</string>
+				<string>し</string>
+				<string>す</string>
+				<string>せ</string>
+				<string>そ</string>
+				<string>た</string>
+				<string>ち</string>
+				<string>つ</string>
+				<string>て</string>
+				<string>と</string>
+				<string>な</string>
+				<string>に</string>
+				<string>ぬ</string>
+				<string>ね</string>
+				<string>の</string>
+				<string>は</string>
+				<string>ひ</string>
+				<string>ふ</string>
+				<string>へ</string>
+				<string>ほ</string>
+				<string>ま</string>
+				<string>み</string>
+				<string>む</string>
+				<string>め</string>
+				<string>も</string>
+				<string>や</string>
+				<string>ゆ</string>
+				<string>よ</string>
+				<string>ら</string>
+				<string>り</string>
+				<string>る</string>
+				<string>れ</string>
+				<string>ろ</string>
+				<string>わ</string>
+				<string>ゐ</string>
+				<string>ゑ</string>
+				<string>を</string>
+				<string>ん</string>
+				<string>が</string>
+				<string>ぎ</string>
+				<string>ぐ</string>
+				<string>げ</string>
+				<string>ご</string>
+				<string>ざ</string>
+				<string>じ</string>
+				<string>ず</string>
+				<string>ぜ</string>
+				<string>ぞ</string>
+				<string>だ</string>
+				<string>ぢ</string>
+				<string>づ</string>
+				<string>で</string>
+				<string>ど</string>
+				<string>ば</string>
+				<string>び</string>
+				<string>ぶ</string>
+				<string>べ</string>
+				<string>ぼ</string>
+				<string>ゔ</string>
+				<string>ぱ</string>
+				<string>ぴ</string>
+				<string>ぷ</string>
+				<string>ぺ</string>
+				<string>ぽ</string>
+				<string>ぁ</string>
+				<string>ぃ</string>
+				<string>ぅ</string>
+				<string>ぇ</string>
+				<string>ぉ</string>
+				<string>っ</string>
+				<string>ゃ</string>
+				<string>ゅ</string>
+				<string>ょ</string>
+				<string>ゎ</string>
+				<string>々</string>
+				<string>ゝ</string>
+				<string>ゞ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Katakana</string>
+				   <key>zh_TW</key>
+				<string>片假名</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>ア</string>
+				<string>イ</string>
+				<string>ウ</string>
+				<string>エ</string>
+				<string>オ</string>
+				<string>カ</string>
+				<string>キ</string>
+				<string>ク</string>
+				<string>ケ</string>
+				<string>コ</string>
+				<string>サ</string>
+				<string>シ</string>
+				<string>ス</string>
+				<string>セ</string>
+				<string>ソ</string>
+				<string>タ</string>
+				<string>チ</string>
+				<string>ツ</string>
+				<string>テ</string>
+				<string>ト</string>
+				<string>ナ</string>
+				<string>ニ</string>
+				<string>ヌ</string>
+				<string>ネ</string>
+				<string>ノ</string>
+				<string>ハ</string>
+				<string>ヒ</string>
+				<string>フ</string>
+				<string>ヘ</string>
+				<string>ホ</string>
+				<string>マ</string>
+				<string>ミ</string>
+				<string>ム</string>
+				<string>メ</string>
+				<string>モ</string>
+				<string>ヤ</string>
+				<string>ユ</string>
+				<string>ヨ</string>
+				<string>ラ</string>
+				<string>リ</string>
+				<string>ル</string>
+				<string>レ</string>
+				<string>ロ</string>
+				<string>ワ</string>
+				<string>ヰ</string>
+				<string>ヱ</string>
+				<string>ヲ</string>
+				<string>ン</string>
+				<string>ガ</string>
+				<string>ギ</string>
+				<string>グ</string>
+				<string>ゲ</string>
+				<string>ゴ</string>
+				<string>ザ</string>
+				<string>ジ</string>
+				<string>ズ</string>
+				<string>ゼ</string>
+				<string>ゾ</string>
+				<string>ダ</string>
+				<string>ヂ</string>
+				<string>ヅ</string>
+				<string>デ</string>
+				<string>ド</string>
+				<string>バ</string>
+				<string>ビ</string>
+				<string>ブ</string>
+				<string>ベ</string>
+				<string>ボ</string>
+				<string>ヴ</string>
+				<string>ヷ</string>
+				<string>ヸ</string>
+				<string>ヹ</string>
+				<string>ヺ</string>
+				<string>パ</string>
+				<string>ピ</string>
+				<string>プ</string>
+				<string>ペ</string>
+				<string>ポ</string>
+				<string>ァ</string>
+				<string>ィ</string>
+				<string>ゥ</string>
+				<string>ェ</string>
+				<string>ォ</string>
+				<string>ッ</string>
+				<string>ャ</string>
+				<string>ュ</string>
+				<string>ョ</string>
+				<string>ヮ</string>
+				<string>ヵ</string>
+				<string>ヶ </string>
+				<string>ヽ</string>
+				<string>ヾ</string>
+				<string>ー</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Bopomofo</string>
+				   <key>zh_TW</key>
+				<string>注音符號</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>ㄅ</string>
+				<string>ㄆ</string>
+				<string>ㄇ</string>
+				<string>ㄈ</string>
+				<string>ㄉ</string>
+				<string>ㄊ</string>
+				<string>ㄋ</string>
+				<string>ㄌ</string>
+				<string>ㄍ</string>
+				<string>ㄎ</string>
+				<string>ㄏ</string>
+				<string>ㄐ</string>
+				<string>ㄑ</string>
+				<string>ㄒ</string>
+				<string>ㄓ</string>
+				<string>ㄔ</string>
+				<string>ㄕ</string>
+				<string>ㄖ</string>
+				<string>ㄗ</string>
+				<string>ㄘ</string>
+				<string>ㄙ</string>
+				<string>ㄚ</string>
+				<string>ㄛ</string>
+				<string>ㄜ</string>
+				<string>ㄝ</string>
+				<string>ㄞ</string>
+				<string>ㄟ</string>
+				<string>ㄠ</string>
+				<string>ㄡ</string>
+				<string>ㄢ</string>
+				<string>ㄣ</string>
+				<string>ㄤ</string>
+				<string>ㄥ</string>
+				<string>ㄦ</string>
+				<string>ㄧ</string>
+				<string>ㄨ</string>
+				<string>ㄩ</string>
+				<string>˙</string>
+				<string>ˊ</string>
+				<string>ˇ</string>
+				<string>ˋ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Greek</string>
+				   <key>zh_TW</key>
+				<string>希臘字母</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>Α</string>
+				<string>Β</string>
+				<string>Γ</string>
+				<string>Δ</string>
+				<string>Ε</string>
+				<string>Ζ</string>
+				<string>Η</string>
+				<string>Θ</string>
+				<string>Ι</string>
+				<string>Κ</string>
+				<string>Λ</string>
+				<string>Μ</string>
+				<string>Ν</string>
+				<string>Ξ</string>
+				<string>Ο</string>
+				<string>Π</string>
+				<string>Ρ</string>
+				<string>Σ</string>
+				<string>Τ</string>
+				<string>Υ</string>
+				<string>Φ</string>
+				<string>Χ</string>
+				<string>Ψ</string>
+				<string>Ω</string>
+				<string>α</string>
+				<string>β</string>
+				<string>γ</string>
+				<string>δ</string>
+				<string>ε</string>
+				<string>ζ</string>
+				<string>η</string>
+				<string>θ</string>
+				<string>ι</string>
+				<string>κ</string>
+				<string>λ</string>
+				<string>μ</string>
+				<string>ν</string>
+				<string>ξ</string>
+				<string>ο</string>
+				<string>π</string>
+				<string>ρ</string>
+				<string>σ</string>
+				<string>τ</string>
+				<string>υ</string>
+				<string>φ</string>
+				<string>χ</string>
+				<string>ψ</string>
+				<string>ω</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>European Language (Uppercase)</string>
+				   <key>zh_TW</key>
+				<string>歐語字母（大寫）</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>À</string>
+				<string>Á</string>
+				<string>Â</string>
+				<string>Ã</string>
+				<string>Ä</string>
+				<string>Å</string>
+				<string>Ā</string>
+				<string>Ą</string>
+				<string>Ă</string>
+				<string>Æ</string>
+				<string>Ç</string>
+				<string>Ć</string>
+				<string>Č</string>
+				<string>Ĉ</string>
+				<string>Ċ</string>
+				<string>Ď</string>
+				<string>Đ</string>
+				<string>È</string>
+				<string>É</string>
+				<string>Ê</string>
+				<string>Ë</string>
+				<string>Ē</string>
+				<string>Ę</string>
+				<string>Ě</string>
+				<string>Ĕ</string>
+				<string>Ė</string>
+				<string>Ĝ</string>
+				<string>Ğ</string>
+				<string>Ġ</string>
+				<string>Ģ</string>
+				<string>Ĥ</string>
+				<string>Ħ</string>
+				<string>Ì</string>
+				<string>Í</string>
+				<string>Î</string>
+				<string>Ï</string>
+				<string>Ī</string>
+				<string>Ĩ</string>
+				<string>Ĭ</string>
+				<string>Į</string>
+				<string>İ</string>
+				<string>Ĳ</string>
+				<string>Ĵ</string>
+				<string>Ķ</string>
+				<string>Ł</string>
+				<string>Ľ</string>
+				<string>Ĺ</string>
+				<string>Ļ</string>
+				<string>Ŀ</string>
+				<string>Ñ</string>
+				<string>Ń</string>
+				<string>Ň</string>
+				<string>Ņ</string>
+				<string>Ŋ</string>
+				<string>Ò</string>
+				<string>Ó</string>
+				<string>Ô</string>
+				<string>Õ</string>
+				<string>Ö</string>
+				<string>Ø</string>
+				<string>Ō</string>
+				<string>Ő</string>
+				<string>Ŏ</string>
+				<string>Œ</string>
+				<string>Ŕ</string>
+				<string>Ř</string>
+				<string>Ŗ</string>
+				<string>Ś</string>
+				<string>Š</string>
+				<string>Ş</string>
+				<string>Ŝ</string>
+				<string>Ș</string>
+				<string>Ť</string>
+				<string>Ţ</string>
+				<string>Ŧ</string>
+				<string>Ț</string>
+				<string>Ù</string>
+				<string>Ú</string>
+				<string>Û</string>
+				<string>Ū</string>
+				<string>Ů</string>
+				<string>Ű</string>
+				<string>Ŭ</string>
+				<string>Ũ</string>
+				<string>Ų</string>
+				<string>Ŵ</string>
+				<string>Ý</string>
+				<string>Ŷ</string>
+				<string>Ź</string>
+				<string>Ž</string>
+				<string>Ż</string>
+				<string>Þ</string>
+				<string>Ð</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>European Language (Lowercase)</string>
+				   <key>zh_TW</key>
+				<string>歐語字母（小寫）</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>à</string>
+				<string>á</string>
+				<string>â</string>
+				<string>ã</string>
+				<string>ä</string>
+				<string>å</string>
+				<string>ā</string>
+				<string>ą</string>
+				<string>ă</string>
+				<string>æ</string>
+				<string>ç</string>
+				<string>ć</string>
+				<string>č</string>
+				<string>ĉ</string>
+				<string>ċ</string>
+				<string>ď</string>
+				<string>đ</string>
+				<string>è</string>
+				<string>é</string>
+				<string>ê</string>
+				<string>ë</string>
+				<string>ē</string>
+				<string>ę</string>
+				<string>ě</string>
+				<string>ĕ</string>
+				<string>ė</string>
+				<string>ƒ</string>
+				<string>ĝ</string>
+				<string>ğ</string>
+				<string>ġ</string>
+				<string>ģ</string>
+				<string>ĥ</string>
+				<string>ħ</string>
+				<string>ì</string>
+				<string>í</string>
+				<string>î</string>
+				<string>ï</string>
+				<string>ī</string>
+				<string>ĩ</string>
+				<string>ĭ</string>
+				<string>į</string>
+				<string>ı</string>
+				<string>ĳ</string>
+				<string>ĵ</string>
+				<string>ķ</string>
+				<string>ĸ</string>
+				<string>ł</string>
+				<string>ľ</string>
+				<string>ĺ</string>
+				<string>ļ</string>
+				<string>ŀ</string>
+				<string>ñ</string>
+				<string>ń</string>
+				<string>ň</string>
+				<string>ņ</string>
+				<string>ŉ</string>
+				<string>ŋ</string>
+				<string>ò</string>
+				<string>ó</string>
+				<string>ô</string>
+				<string>õ</string>
+				<string>ö</string>
+				<string>ø</string>
+				<string>ō</string>
+				<string>ő</string>
+				<string>ŏ</string>
+				<string>œ</string>
+				<string>ŕ</string>
+				<string>ř</string>
+				<string>ŗ</string>
+				<string>ś</string>
+				<string>š</string>
+				<string>ş</string>
+				<string>ŝ</string>
+				<string>ș</string>
+				<string>ť</string>
+				<string>ţ</string>
+				<string>ŧ</string>
+				<string>ț</string>
+				<string>ù</string>
+				<string>ú</string>
+				<string>û</string>
+				<string>ü</string>
+				<string>ū</string>
+				<string>ů</string>
+				<string>ű</string>
+				<string>ŭ</string>
+				<string>ũ</string>
+				<string>ų</string>
+				<string>ŵ</string>
+				<string>ý</string>
+				<string>ÿ</string>
+				<string>ŷ</string>
+				<string>ž</string>
+				<string>ż</string>
+				<string>ź</string>
+				<string>þ</string>
+				<string>ß</string>
+				<string>ſ</string>
+				<string>ð</string>
+			</array>
+		</dict>		   
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+				<string>Math</string>
+				   <key>zh_TW</key>
+				<string>數學符號</string>		 
+			</dict>	
+			<key>IsSymbolButtonList</key>
+			<string>true</string>
+			<key>Buttons</key>
+			<array>
+				<string>╳</string>
+				<string>＋</string>
+				<string>﹢</string>
+				<string>－</string>
+				<string>×</string>
+				<string>÷</string>
+				<string>＝</string>
+				<string>≠</string>
+				<string>≒</string>
+				<string>∞</string>
+				<string>ˇ</string>
+				<string>±</string>
+				<string>√</string>
+				<string>⊥</string>
+				<string>∠</string>
+				<string>∟</string>
+				<string>⊿</string>
+				<string>㏒</string>
+				<string>㏑</string>
+				<string>∫</string>
+				<string>∮</string>
+				<string>∵</string>
+				<string>∴</string>
+			</array>
+		</dict>
+
+
+		<dict>
+			<key>Name</key>
+			<dict>
+				   <key>en</key>
+    			 <string>Emoji (Emoticons)</string>
+				   <key>zh_TW</key>
+				<string>顏文字</string>		 
+			</dict>	
+			<key>Messages</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>(^(00)^) 豬</string>
+					<key>Text</key>
+					<string>(^(00)^) 豬</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>╭(﹊∩∩﹊)╮ 豬頭</string>
+					<key>Text</key>
+					<string>╭(﹊∩∩﹊)╮ 豬頭</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(=^_^=) 喵喵</string>
+					<key>Text</key>
+					<string>(=^_^=) 喵喵</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(^(エ)^) 熊</string>
+					<key>Text</key>
+					<string>(^(エ)^) 熊</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(=￣ω￣=) 貓咪臉</string>
+					<key>Text</key>
+					<string>(=￣ω￣=) 貓咪臉</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>＝ ＝+ 鏘~ 銳利的眼神</string>
+					<key>Text</key>
+					<string>＝ ＝+ 鏘~ 銳利的眼神</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>＝　＝╬ 生氣（青筋暴露）</string>
+					<key>Text</key>
+					<string>＝　＝╬ 生氣（青筋暴露）</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>&lt;(￣ ﹌ ￣)&gt; 生氣叉腰</string>
+					<key>Text</key>
+					<string>&lt;(￣ ﹌ ￣)&gt; 生氣叉腰</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>&lt;(￣ ﹌ ￣)&gt; 生氣嘟嘴</string>
+					<key>Text</key>
+					<string>&lt;(￣ ﹌ ￣)&gt; 生氣嘟嘴</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>&lt;(￣ ﹌ ￣)@m 就是你</string>
+					<key>Text</key>
+					<string>&lt;(￣ ﹌ ￣)@m 就是你</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>╰（‵□′）╯ 暴怒</string>
+					<key>Text</key>
+					<string>╰（‵□′）╯ 暴怒</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>┴─┴︵╰（‵□′╰ 左手翻桌</string>
+					<key>Text</key>
+					<string>┴─┴︵╰（‵□′╰ 左手翻桌</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>┴┴︵╰（‵□′）...  兩手翻桌</string>
+					<key>Text</key>
+					<string>┴┴︵╰（‵□′）╯︵┴┴  兩手翻桌</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（╬￣皿￣）＝○＃（￣ 看拳</string>
+					<key>Text</key>
+					<string>（╬￣皿￣）＝○＃（￣＃）３￣） 看拳</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>＜（‵□′）＞─... 生氣扭耳朵</string>
+					<key>Text</key>
+					<string>＜（‵□′）＞───Ｃε（┬＿┬）３ 生氣扭耳朵</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>＜( ￣︿￣)︵θ... 流星拳攻擊</string>
+					<key>Text</key>
+					<string>＜( ￣︿￣)︵θ︵θ︵θ︵θ︵☆（＞口＜－） 流星拳攻擊</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>〈（＿　＿）〉 道歉、鞠躬</string>
+					<key>Text</key>
+					<string>〈（＿　＿）〉 道歉、鞠躬</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ｍ（＿　＿）ｍ 叩拜</string>
+					<key>Text</key>
+					<string>ｍ（＿　＿）ｍ 叩拜</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（ノ＿　＿）ノ▽ 舉白旗</string>
+					<key>Text</key>
+					<string>（ノ＿　＿）ノ▽ 舉白旗</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>\("▔□▔)/ 舉手投降</string>
+					<key>Text</key>
+					<string>\("▔□▔)/ 舉手投降</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(O_o)??	 怎麼了</string>
+					<key>Text</key>
+					<string>(O_o)??	 怎麼了</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>o_O ||  驚!</string>
+					<key>Text</key>
+					<string>o_O ||  驚!</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>◎_◎ 傻眼</string>
+					<key>Text</key>
+					<string>◎_◎ 傻眼</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>O口O! 超驚訝!</string>
+					<key>Text</key>
+					<string>O口O! 超驚訝!</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Σ(￣□￣； 下巴掉了</string>
+					<key>Text</key>
+					<string>Σ(￣□￣； 下巴掉了</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(⊙ˍ⊙) 睜大眼</string>
+					<key>Text</key>
+					<string>(⊙ˍ⊙) 睜大眼</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(。_。)	 重創、腦袋空白</string>
+					<key>Text</key>
+					<string>(。_。)	 重創、腦袋空白</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Σ( ° △ °|||)︴ 驚嚇發抖</string>
+					<key>Text</key>
+					<string>Σ( ° △ °|||)︴ 驚嚇發抖</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(@~@)? 昏～？</string>
+					<key>Text</key>
+					<string>(@~@)? 昏～？</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>O&lt;=	 整個人昏倒</string>
+					<key>Text</key>
+					<string>O&lt;=	 整個人昏倒</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>o(〒﹏〒)o 淚</string>
+					<key>Text</key>
+					<string>o(〒﹏〒)o 淚</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>〒.〒 垂淚</string>
+					<key>Text</key>
+					<string>〒.〒 垂淚</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣口￣)!! 汗</string>
+					<key>Text</key>
+					<string>(￣口￣)!! 汗</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>／︿＼ 難過</string>
+					<key>Text</key>
+					<string>／︿＼ 難過</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(＞x＜)	 閉嘴</string>
+					<key>Text</key>
+					<string>(＞x＜)	 閉嘴</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣.￣)+ … 無言</string>
+					<key>Text</key>
+					<string>(￣.￣)+ … 無言</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣▽￣)" 冷</string>
+					<key>Text</key>
+					<string>(￣▽￣)" 冷</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣３￣)a 疑惑</string>
+					<key>Text</key>
+					<string>(￣３￣)a 疑惑</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣0 ￣)y 阿達</string>
+					<key>Text</key>
+					<string>(￣0 ￣)y 阿達</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(＞﹏＜) 不</string>
+					<key>Text</key>
+					<string>(＞﹏＜) 不</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(→_→) 懷疑</string>
+					<key>Text</key>
+					<string>(→_→) 懷疑</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(ˇˍˇ) 我想想</string>
+					<key>Text</key>
+					<string>(ˇˍˇ) 我想想</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(&gt;////&lt;) 臉紅害羞</string>
+					<key>Text</key>
+					<string>(&gt;////&lt;) 臉紅害羞</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>≧◇≦ 開心+羞</string>
+					<key>Text</key>
+					<string>≧◇≦ 開心+羞</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(#￣▽￣#) 羞</string>
+					<key>Text</key>
+					<string>(#￣▽￣#) 羞</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>v(￣︶￣)y 得意、YA~</string>
+					<key>Text</key>
+					<string>v(￣︶￣)y 得意、YA~</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>&lt;(￣︶￣)&gt; 得意叉腰</string>
+					<key>Text</key>
+					<string>&lt;(￣︶￣)&gt; 得意叉腰</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣ー￣) 賊笑</string>
+					<key>Text</key>
+					<string>(￣ー￣) 賊笑</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Ψ(￣∀￣)Ψ 惡魔</string>
+					<key>Text</key>
+					<string>Ψ(￣∀￣)Ψ 惡魔</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>&lt;(‵▽′)&gt; 哈哈哈~~(我是壞人~)</string>
+					<key>Text</key>
+					<string>&lt;(‵▽′)&gt; 哈哈哈~~(我是壞人~)</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣▽￣)~* 笑了</string>
+					<key>Text</key>
+					<string>(￣▽￣)~* 笑了</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（￣︶￣）↗ Let's GO~</string>
+					<key>Text</key>
+					<string>（￣︶￣）↗ Let's GO~</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣﹁￣) 流口水</string>
+					<key>Text</key>
+					<string>(￣﹁￣) 流口水</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>╮(－_－)╭	 兩手一攤</string>
+					<key>Text</key>
+					<string>╮(－_－)╭	 兩手一攤</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>╮(╯◇╰)╭ 來～阿姑親一個</string>
+					<key>Text</key>
+					<string>╮(╯◇╰)╭ 來～阿姑親一個</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ㄟ(￣▽￣ㄟ) 偷偷逃跑</string>
+					<key>Text</key>
+					<string>ㄟ(￣▽￣ㄟ) 偷偷逃跑</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（～￣▽￣～） 海帶啊～海帶～</string>
+					<key>Text</key>
+					<string>（～￣▽￣～） 海帶啊～海帶～</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>*\(^_^)/* 拿綵球、為你加油～</string>
+					<key>Text</key>
+					<string>*\(^_^)/* 拿綵球、為你加油～</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>-,,- 鼻毛跑出來了！</string>
+					<key>Text</key>
+					<string>-,,- 鼻毛跑出來了！</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>( ￣ c￣)y▂ξ 吐菸</string>
+					<key>Text</key>
+					<string>( ￣ c￣)y▂ξ 吐菸</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>( ▔___▔)y-～ 無奈抽煙</string>
+					<key>Text</key>
+					<string>( ▔___▔)y-～ 無奈抽煙</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（￣ー+￣)y-'~~~ 賊笑抽菸</string>
+					<key>Text</key>
+					<string>（￣ー+￣)y-'~~~ 賊笑抽菸</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（　￣ー￣）ﾉ■☆■... 乾杯</string>
+					<key>Text</key>
+					<string>（　￣ー￣）ﾉ■☆■ヾ(￣ー￣　) 乾杯</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ε＝（ノ＿　＿）ノ 噗~放個屁</string>
+					<key>Text</key>
+					<string>ε＝（ノ＿　＿）ノ 噗~放個屁</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(￣o￣) . z Z 睏</string>
+					<key>Text</key>
+					<string>(￣o￣) . z Z 睏</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>（￣￢￣）ＺＺＺｚｚ... 睡覺</string>
+					<key>Text</key>
+					<string>（￣￢￣）ＺＺＺｚｚｚ・・・ 睡覺</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>(^_-)db(-_^) 手指打勾勾～約定！</string>
+					<key>Text</key>
+					<string>(^_-)db(-_^) 手指打勾勾～約定！</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>‧★,:*:‧\(￣... 用力灑花恭喜</string>
+					<key>Text</key>
+					<string>‧★,:*:‧\(￣▽￣)/‧:*‧°★* 用力灑花恭喜</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ｂ（￣▽￣... 豎起雙手拇指說好</string>
+					<key>Text</key>
+					<string>ｂ（￣▽￣）ｄ 豎起雙手拇指說好</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>O-(//... 哈利波特之去去武器走</string>
+					<key>Text</key>
+					<string>O-(///￣皿￣)☞ ─═≡☆゜★█▇▆▅▄▃▂＿ 哈利波特之去去武器走</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>╭(′... 讓咱們一起奔向夕陽吧～</string>
+					<key>Text</key>
+					<string>╭(′▽`)╭(′▽`)╯ 讓咱們一起奔向夕陽吧～</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>╭∩╮（￣▽... 雙手比中指</string>
+					<key>Text</key>
+					<string>╭∩╮（￣▽￣）╭∩╮ 雙手比中指</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>＝"＝凸 單手比中指</string>
+					<key>Text</key>
+					<string>＝"＝凸 單手比中指</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>&lt;(￣3￣)&gt; 叉腰嘟嘴</string>
+					<key>Text</key>
+					<string>&lt;(￣3￣)&gt; 叉腰嘟嘴</string>
+				</dict>
+			</array>
+		</dict>		
+	</array>
+</dict>
+</plist>

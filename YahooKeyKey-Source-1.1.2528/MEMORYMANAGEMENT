@@ -1,0 +1,20 @@
+Memory Management Rules in OpenVanilla.
+
+Objective-C, C++/CLI ("Managed C++") and C# follow their respective memory management rules. For C++ it's a bit tricky, but in some, here are the rules:
+
+0. By "A owns B" or "A manages B" we mean A has a member B, and A delete B upon A's own destruction.
+1. OV classes never own the objects you pass to them.
+2. Some OV classes do have the option to let them own your objects. By default it should always be off.
+3. Never own an object returned by a member function unless the member function begins with "create".
+4. Don't assume the object that an OV service passes to you will always exist. Never reuse them.
+5. Following 3., remember to delete the object returned by a create- member function!
+6. Class member functions, no matter what they are called, return objects that you must manage, unless explicitly specified. (Usually if they don't want you to manage, they'll simply return an object instead of a pointer, so you got the idea).
+7. Most *Impl classes have two member functions, shouldDelete() and copy(), to make the interface class move them around. If shouldDelete() returns false, copy() returns the singleton (and the singleton must be managed somewhere else). If shouldDelete() returns true, copy() always returns a copy. The rule of thumb is to use the latter option when possible.
+
+So in short,
+
+* Mind your own objects
+* Never own or reuse OV objects passed to you.
+* If you get an object from a function starting with "create", manage it.
+
+Also, try to use class member function instead of constructor if you need an atomic object creation (i.e. you want to get 0 when Object* instance = new SomeClass fails; use instance = SomeClass::CreateObject(..) is better).

@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+#Copyright (c) 2012, Yahoo! Inc.  All rights reserved.
+#Copyrights licensed under the New BSD License. See the accompanying LICENSE
+#file for terms.
+#
+wc -l `find * | perl -n -e 'print if /(\.rb|\.h|\.cpp|\.cs|\.m|.mm)$/ && !/build/ && !/Document/ && !/External/ && !/immdev/'`
+

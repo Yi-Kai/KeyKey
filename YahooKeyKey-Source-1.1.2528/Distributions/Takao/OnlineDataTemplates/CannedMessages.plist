@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CannedMessages</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>聖誕節訊息特輯</string>
+			<key>Messages</key>
+			<array>
+				<string>聖誕快樂！</string>
+				<string>Merry Christmas!</string>
+				<dict>
+					<key>Name</key>
+					<string>House (Try It!)</string>
+					<key>Text</key>
+					<string>       _.._\n     .' .-'`               +\n    /  /    .                           *            +\n    |  |                 /^\     .\n    \  '.___.;          /' '\                    .             *\n     '._  _.'          /'   '\     __\n                  *   /'     '\    &gt;&lt;   +\n                     /'_______'\  /_ \                          +\n   .                 `|`"`"`"`|`  |-_|   /^\\n                    .-|  /,\  |---'--'--/' '\     *\n           .       /::| |_I_| |        /'   '\\n                  /:::|_______|       /' ___ '\\n                 /:::::::..          /' /_|_\ '\         *\n  *             /___________________/'  \_|_/  '\               .\n                 |`"`"`"`"`"`"`"`"`/'           '\\n                 |  .===.  .===.  /'_____________'\    +\n            +    |  | , |  | , |  `|`"`"`"`"`"`"`|`\n                 |  |_I_|  |_I_|   | .===. .===. |\n    .            |_________________| | , | | , | |\n                /::::::..          | |_I_| |_I_| |  .           *\n               /:::::::::....      |_____________|\\n              /____________________________________\\n              `;.:.:.:.:.:.:.:.:.:.:;:.:.:.:.:.:.;:`       +\n        *      |;`"` `"` `"` `"` `"`|;"` `"` `"` ||\n           *   ||   ___    .====.   ||  ___ ___  ||  *\n   +       &gt;&lt;  ||  |---|   |/::\|   || |---|---| ||       _       .\n          &gt;&gt;o&lt; ||  | , |   |:():|   || | , | , | ||     _|_|_\n         &gt;o&gt;&lt;&lt;&lt;||  |_I_|   |\::/|   || |_I_|_I_| ||     _\_/\n        &gt;&gt;&gt;&lt;&lt;&lt;&lt;||__________| ``o|___||___________||  -&gt;-/~. \-&lt;-\n       &gt;&gt;&gt;&gt;&gt;&lt;o&lt;|||||||||||||    |||||||||||||||||||     \ . /\n ::::: &gt;o&gt;&gt;&lt;&lt;&lt;&lt;|||||||||||||____|||||||||||||||||||::: /  .  \ ::::\n '.'.:&gt;&gt;&gt;&gt;&gt;jgs&lt;||__&gt;&lt;___&gt;&lt;_|====|___||___________||.:. \     / .'::\n ::...&gt;&gt;&gt;o&gt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&lt;;====; .'..'.. ..'..' .::. '.`"""` ..:::\n  '::..'. . .. '' '.'.  './      \ '. .' .. ..:: ..:;'' ..'.'..' ':\n     '.   '.  '. '  .. ' /        \ '.  '.  ''. ' . ' . ' ' .' .'</string>
+				</dict>
+	
+				<dict>
+					<key>Name</key>
+					<string>Tree</string>
+					<key>Text</key>
+					<string>   *\n  ***\n *****\n*******\n*******\n   *\n   *\n   *\n  ***\n</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>New Year's Greetings</string>
+			<key>Messages</key>
+			<array>
+				<string>Happy New Year!</string>
+				<string>Bonne année!</string>
+				<string>Schönes Neujahr</string>
+				<string>新年おめでとう！</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+"Smart Phonetic" = "好打注音";
+"Traditional Phonetic" = "传统注音";
+"Cangjie" = "仓颉";
+"Simplex" = "简易";
+"Help" = "帮助";
+"Preferences..." = "偏好设置";
+"About Yahoo! KeyKey" = "关于 Yahoo! 奇摩输入法";
+"<h2>Error</h2><p>Unable to fetch data from the online dictionary.</p></body></html>" = "<h2>错误</h2><p>无法连接在线字典。</p></body></html>";
+"<h2>Not Found</h2><p>Unable to find results matching %@." = "<h2>找不到</h2><p>找不到匹配“%@”的项目。";
+"<h2>Loading...</h2><p>Please wait</p></body></html>" = "<h2>加载中…</h2><p>请稍候</p></body></html>";
+"<p class=\"credit\">2008-2010 Yahoo! Taiwan All Rights Reserved.</p>" = "<p class=\"credit\">雅虎國際资讯 版权所有© 2008-2010 Yahoo! Taiwan All Rights Reserved.</p>";
+"Dictionary" = "Dictionary";
+"Dictionary: %@" = "字典：%@";
+"Speak" = "朗读";
+"Enter" = "输入";
+"Current Input Method:" = "目前选用的输入法：";
+"Enable " = "启用";
+"Disable " = "停用";
+"One-Key" = "一点通";
+"Symbols" = "符号表";
+"The phrase you want to add is invalid." = "您要加入的词汇格式不正确！";
+"Add new phrase: " = "加入新词： ";
+
+"Send" = "送出";
+
+"BOM-LINE" = "=== 请从本行以下加入自定讯息，一行一则，每行不超过 80 中文或英数字，并请保留这一行 ===";
+"EXAMPLE-LINE" = "你好！";
