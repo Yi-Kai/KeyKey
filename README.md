@@ -17,10 +17,10 @@ Installation on Windows
 1. 用 Visual Studio 開啟 Takao.sln 然後編完
 2. 進入 Visual Studio command line tool，然後執行以下指令
 
-```
-cd [project root]\Distributions\Takao\Installer-Windows
-makesetup
-```
+   ```
+   cd [project root]\Distributions\Takao\Installer-Windows
+   makesetup
+   ```
 3. 完成的新版 Windows installer 就會放在同一個目錄中，檔名為
    `YahooKeyKey-Windows-VERSION-zh-TW.exe`
 4. 將 VERSION 部分更改為正確檔名
@@ -31,12 +31,12 @@ Installation on OSX Leopard/Tiger
 
 1. 回到 OS X 機器上，進到以下目錄執行以下指令：
 
-```
-cd ./Distributions/Takao/Installer-OSX-IMK
-perl makedmg.pl
-cd ./Distributions/Takao/Installer-OSX-TSM
-perl makedmg.pl
-```
+   ```
+   cd ./Distributions/Takao/Installer-OSX-IMK
+   perl makedmg.pl
+   cd ./Distributions/Takao/Installer-OSX-TSM
+   perl makedmg.pl
+   ```
 2. 編好的檔案會放在 `./build/Release` 中，有兩個 `.dmg` 檔，版號已經編好，格式為：
    `YahooKeyKey-OSX-{Leopard|Tiger}-x.y.zzzz.dmg`
 3. 將兩個 .dmg 檔拷貝至集中目錄中
