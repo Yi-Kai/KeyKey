@@ -1,6 +1,6 @@
 Yahoo! KeyKey
 ===
-[Yahoo! Keykey]((http://tw.media.yahoo.com/keykey/) is a customized Chinese input methods tool based on an open source project [Openvanilla](http://openvanilla.org/). Yahoo! had decided to make Yahoo! Keykey as a open source projecet and under new BSD licene.
+[Yahoo! Keykey](http://tw.media.yahoo.com/keykey/) is a customized Chinese input methods tool based on an open source project [Openvanilla](http://openvanilla.org/). Yahoo! had decided to make Yahoo! Keykey as a open source projecet and under new BSD licene.
 
 Some external dependency information are list here:
 
